@@ -7,7 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins);
 @import url('./styles/strock-icon.css');
 @import url('./styles/bootstrap-theme.min.css');
-@import url('font-awesome.min.css');
+/* @import url('font-awesome.min.css'); */
 
 :root {
   --background: #ffffff;
